@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=”” tvg-name=”CNN ESP_” tvg-logo=”http://mylatinotv.com/images/mexico/cnn.png” group-title=””,CNN ESP_
-http://62.210.139.229:25461/9115059399/4414261712/113
-
 #EXTINF:-1,PARAMOUNT CHANEL
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
@@ -69,7 +66,6 @@ http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 #EXTINF:-1,HBO SIGNATURE
 http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 
-
 #EXTINF:-1,HBO FAMILY
 http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
 
@@ -124,7 +120,6 @@ http://balancer1.ottmex.com:8081/BKR/CartoonNetwork/chunks.m3u8
 
 #EXTINF:-1,TOONCAST
 http://balancer1.ottmex.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
-
 
 #EXTINF:-1,BABY TV
 http://balancer1.ottmex.com:8081/tecno/Babytv.Tecnobyte/chunks.m3u8
@@ -201,7 +196,6 @@ http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
 #EXTINF:-1,AD SPORT 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
 
 #EXTINF:-1,AD SPORT 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
