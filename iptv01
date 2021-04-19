@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=”” tvg-name=”CNN ESP_” tvg-logo=”http://mylatinotv.com/images/mexico/cnn.png” group-title=””,CNN ESP_ http://62.210.139.229:25461/9115059399/4414261712/113
+#EXTINF:-1,PARAMOUNT CHANEL http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1,CINE PARAMOUNT http://paramount.live.flumotion.com/live/chunks.m3u8?fluxustv.m3u8
+#EXTINF:-1,NATGEO http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1,NATGEO WILD http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,MAX PRIME http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1,A&E http://balancer1.ottmex.com:8081/tecno/AyE.Tecnobyte/chunks.m3u8
+#EXTINF:-1,ANTENA SERIES http://balancer1.ottmex.com:8081/BKR/AntenaSeries.TecnoByte/chunks.m3u8
+#EXTINF:-1,EI http://balancer1.ottmex.com:8081/BKR/Eentertainment.TecnoByte/chunks.m3u8
+#EXTINF:-1,FOX LIFE http://balancer1.ottmex.com:8081/BKR/Foxlife.TecnoByte/chunks.m3u8
+#EXTINF:-1,MAS CHIC http://balancer1.ottmex.com:8081/BKR/MasChic.TecnoByte/chunks.m3u8
+#EXTINF:-1,SONY http://balancer1.ottmex.com:8081/tecno/Sony.Tecnobyte/chunks.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL http://balancer1.ottmex.com:8081/BKR/StudioUniversal.TecnoByte/chunks.m3u8
+#EXTINF:-1,TELEMUNDO INTERNACIONAL http://balancer1.ottmex.com:8081/BKR/Telemundoint.TecnoByte/chunks.m3u8
+#EXTINF:-1,WARNER BROS http://balancer1.ottmex.com:8081/BKR/Warner.TecnoByte/chunks.m3u8
+￼
+#EXTINF:-1,DISTRITO COMEDIA http://balancer1.ottmex.com:8081/tecno/Distritocomedia.TecnoByte/chunks.m3u8
+#EXTINF:-1,FOX http://balancer1.ottmex.com:8081/BKR/Fox.BKR/chunks.m3u8
+#EXTINF:-1,TNT http://balancer1.ottmex.com:8081/BKR/Tnt.TecnoByte/chunks.m3u8
+#EXTINF:-1,HBO http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO 2 http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO PLUS http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO SIGNATURE http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1,HBO FAMILY http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1,FOX PREMIUM http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
+#EXTINF:-1,FOX SERIES http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
+#EXTINF:-1,FOX FAMILY http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1,GOLDEN PREMIER http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HGTV http://balancer1.ottmex.com:8081/BKR/HGTV.TecnoByte/chunks.m3u8
+#EXTINF:-1 tvg-id=”” tvg-name=”HOLA TV” tvg-logo=”http://mylatinotv.com/images/mexico/holatv.png” group-title=””,HOLA TV http://62.210.139.229:25461/9115059399/4414261712/77
+
+￼
+#EXTINF:-1,GOURMET http://balancer1.ottmex.com:8081/BKR/Gourmet.TecnoByre/chunks.m3u8
+#EXTINF:-1,NATGEO WILD http://balancer1.ottmex.com:8081/BKR/NatgeoWild.TecnoByte/chunks.m3u8
+#EXTINF:-1,DISCOVERY THEATER http://balancer1.ottmex.com:8081/BKR/Discovery_Theater.TecnoByte/chunks.m3u8
+#EXTINF:-1,DISCOVERY SCENCE http://balancer1.ottmex.com:8081/BKR/DiscoverySci.TecnoByte/chunks.m3u8
+#EXTINF:-1,DISCOVERY TURBO http://balancer1.ottmex.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1,DISCOVERY ID http://balancer1.ottmex.com:8081/tecno/ID.Tecnobyte/chunks.m3u8
+#EXTINF:-1,DISNEY JR http://balancer1.ottmex.com:8081/BKR/DisneyJR.Tecnobyte/chunks.m3u8
+#EXTINF:-1,DISNEY CHANEL http://balancer1.ottmex.com:8081/BKR/Disneychann.TecnoByte/chunks.m3u8
+#EXTINF:-1,DISNEY XD http://balancer1.ottmex.com:8081/BKR/DisneyXD.Tecnobyte/chunks.m3u8
+#EXTINF:-1,CARTOON NETWORK http://balancer1.ottmex.com:8081/BKR/CartoonNetwork/chunks.m3u8
+#EXTINF:-1,TOONCAST http://balancer1.ottmex.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1,BABY TV http://balancer1.ottmex.com:8081/tecno/Babytv.Tecnobyte/chunks.m3u8
+#EXTINF:-1,TUDN http://balancer1.ottmex.com:8081/BKR/tdn.BKR/chunks.m3u8
+#EXTINF:-1,AXN http://54.39.104.194:8081/bunker/Axn_51/chunks.m3u8
+#EXTINF:-1,CINEMAX http://54.39.104.194:8081/bunker/CineMax_40/chunks.m3u8
+#EXTINF:-1,TELEVISA http://54.39.104.194:8081/bunker/TeleVisaMTY_16/chunks.m3u8
+#EXTINF:-1,UNIVERSAL http://54.39.104.194:8081/bunker/Universal_44/chunks.m3u8
+#EXTINF:-1,SPACE http://54.39.104.194:8081/bunker/Space_25/chunks.m3u8
+#EXTINF:-1,FX http://54.39.104.194:8081/bunker/fx_42/chunks.m3u8
+#EXTINF:-1,HISTORY CHANEL http://54.39.104.194:8081/bunker/History_49/chunks.m3u8
+#EXTINF:-1,NATGEO http://54.39.104.194:8081/bunker/N.G_48/chunks.m3u8
+#EXTINF:-1,TELEMAX http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
+#EXTINF:-1,RED BULL TV https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,LATINOS UP https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+#EXTINF:-1,ANTENA 3 https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:-1,MTV CLIPES 1 http://rtmp.one.by:1200
+#EXTINF:-1,MUSIC TOP http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1,RETRO TV http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,PORTAL FOX MIX http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1,M2O TV http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,THE 80s VIDEOMIX https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
+#EXTINF:-1,THE 90s EURODANCE https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
+#EXTINF:-1,SPORT 2 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,REAL MADRID http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,OLIMPIC CANAL http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1,AD SPORT 2 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,AD SPORT 1 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,BAYER MUNCHEN TV http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:-1,SPORTMAX http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1,CANAL DE TELEVISIÓN DE FUTBOL http://109.248.236.41:4433/udp/238.1.1.14:1234
+#EXTINF:-1,MBL NETWORK http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,SKY ARENA http://cdnak19.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1,EUROSPORT 1 http://82.200.127.58:8080/udp/239.54.5.45:1224
+#EXTINF:-1,ESPN GOLF http://balancer1.ottmex.com:8081/BKR/Espn1.BKR/chunks.m3u8
+#EXTINF:-1,ESPN 2 http://balancer1.ottmex.com:8081/BKR/Espn2.BKR/chunks.m3u8
+#EXTINF:-1,ESPN 3 http://balancer1.ottmex.com:8081/BKR/Espn3.BKR/chunks.m3u8
+#EXTINF:-1,FOX SPORTS http://balancer1.ottmex.com:8081/BKR/FoxSports1.BKR/chunks.m3u8
+#EXTINF:-1,FOX SPORTS 2 http://balancer1.ottmex.com:8081/BKR/FoxSports2.BKR/chunks.m3u8
+#EXTINF:-1,FOX SPORTS 3 http://balancer1.ottmex.com:8081/BKR/FoxSports3.BKR/chunks.m3u8
